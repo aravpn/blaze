@@ -3,7 +3,7 @@
   "domain_list": {
     "default": [
       {
-        "url": "https://api.blazeapp.ir",
+        "url": "https://prod-api.blazeapp.ir",
         "timeout": 18000,
         "type":"api"
       },
@@ -18,7 +18,7 @@
         "type":"backup"
       },
     ],
-    "cn": [
+    "ir": [
       {
         "url": "https://prod-api.blazeapp.ir",
         "timeout": 18000,
