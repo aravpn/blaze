@@ -11,7 +11,12 @@
         "url": "https://api.musicbama.com",
         "timeout": 6000,
         "type":"api"
-      }
+      },
+      {
+        "url": "https://raw.githubusercontent.com/aravpn/blaze/refs/heads/main/config.json",
+        "timeout": 15000,
+        "type":"backup"
+      },
     ],
     "cn": [
       {
@@ -23,7 +28,12 @@
         "url": "https://api.musicbama.com",
         "timeout": 6000,
         "type":"api"
-      }
+      },
+      {
+        "url": "https://raw.githubusercontent.com/aravpn/blaze/refs/heads/main/config.json",
+        "timeout": 15000,
+        "type":"backup"
+      },
     ]
   }
 }
