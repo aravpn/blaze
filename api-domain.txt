@@ -18,7 +18,7 @@
         "type":"backup"
       },
     ],
-    "ir": [
+    "IR": [
       {
         "url": "https://api.blazeapp.ir",
         "timeout": 18000,
