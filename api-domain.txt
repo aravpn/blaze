@@ -3,13 +3,13 @@
   "domain_list": {
     "default": [
       {
-        "url": "https://prod-api.blazeapp.ir",
+        "url": "https://api.blazeapp.ir",
         "timeout": 18000,
         "type":"api"
       },
       {
         "url": "https://api.musicbama.com",
-        "timeout": 6000,
+        "timeout": 15000,
         "type":"api"
       },
       {
@@ -20,13 +20,13 @@
     ],
     "ir": [
       {
-        "url": "https://prod-api.blazeapp.ir",
+        "url": "https://api.blazeapp.ir",
         "timeout": 18000,
         "type":"api"
       },
       {
         "url": "https://api.musicbama.com",
-        "timeout": 6000,
+        "timeout": 15000,
         "type":"api"
       },
       {
