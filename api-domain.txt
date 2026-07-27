@@ -21,7 +21,7 @@
         "url": "https://raw.githubusercontent.com/aravpn/blaze/refs/heads/main/api-domain.txt",
         "timeout": 15000,
         "type":"backup"
-      },
+      }
     ],
     "IR": [
       {
@@ -43,7 +43,7 @@
         "url": "https://raw.githubusercontent.com/aravpn/blaze/refs/heads/main/api-domain.txt",
         "timeout": 15000,
         "type":"backup"
-      },
+      }
     ]
   }
 }
