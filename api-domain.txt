@@ -1,12 +1,7 @@
 {
   "cached": false,
   "domain_list": {
-    "default": [
-      {
-        "url": "https://api.musicbama.com",
-        "timeout": 20000,
-        "type": "api"
-      },
+    "default":[
       {
         "url": "https://api.blazeapp.ir",
         "timeout": 18000,
@@ -24,11 +19,6 @@
       }
     ],
     "IR": [
-      {
-        "url": "https://api.musicbama.com",
-        "timeout": 20000,
-        "type": "api"
-      },
       {
         "url": "https://api.blazeapp.ir",
         "timeout": 18000,
